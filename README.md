@@ -1,2 +1,2 @@
 # Student-Application
-## CRUD web application user can insert, update and delete by using Java EE(JSP) and mysql
+## CRUD web application in which user can insert, update and delete by using Java EE(JSP) and mysql
